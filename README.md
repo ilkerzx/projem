@@ -7,24 +7,24 @@
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions">
 </div>
 
-# Project Name
-*Proje Adı*
+# FINAL PROJECT
+*FİNAL PROJESİ*
 
-A brief, engaging description of your project.  
-*Projenizin kısa ve ilgi çekici bir açıklaması.*
+In this project, a simple Android application was analyzed using reverse engineering methods. Without access to the original source code, the .apk file was unpacked to examine the app's structure, permissions, and logic. 
+*Bu projede, basit bir Android uygulaması tersine mühendislik yöntemiyle analiz edilmiştir. Orijinal kaynak kodu olmadan .apk dosyası açılarak uygulamanın yapısı, izinleri ve mantığı incelenmiştir.*
 
 ---
 
 ## Features / *Özellikler*
 
-- **Feature 1:** Description of the feature.  
-  *Özellik 1: Özelliğin açıklaması.*
-- **Feature 2:** Another cool thing it does.  
-  *Özellik 2: Yaptığı başka bir harika şey.*
-- **Feature 3:** One more for good measure.  
-  *Özellik 3: Ve bir tane daha.*
-- Add more as they develop.  
-  *Geliştikçe daha fazla ekleyin.*
+- **Feature 1:** Decompiles an Android .apk to view Java-like source code.  
+  *Özellik 1:  Android .apk dosyasını decompile ederek Java benzeri kaynak kodu görüntüler.*
+- **Feature 2:** Extracts and analyzes app components like layouts and permissions.  
+  *Özellik 2: Uygulamanın arayüzleri ve izinleri gibi bileşenlerini çıkarır ve analiz eder.*
+- **Feature 3:** Helps understand how the app works without source code access.
+  *Özellik 3: Kaynak kod erişimi olmadan uygulamanın nasıl çalıştığını anlamaya yardımcı olur.*
+- **Feature 4:** Demonstrates basic mobile app reverse engineering techniques.
+  *Özellik 3: Temel mobil uygulama tersine mühendislik tekniklerini gösterir.*
 
 ---
 
