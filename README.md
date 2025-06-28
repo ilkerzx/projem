@@ -30,7 +30,7 @@ In this project, a simple Android application was analyzed using reverse enginee
 
 ## Team / *Ekip*
 
-- **219*****031** - Name Surname: *Role or Contribution*  
+- **2320191031** - İlker DEMİRCAN: *Role or Contribution*  
   *Ad Soyad: Rolü veya Katkısı*
 - **Another Member** - Name Surname: *Role or Contribution*  
   *Ad Soyad: Rolü veya Katkısı*
