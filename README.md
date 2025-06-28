@@ -30,13 +30,10 @@ In this project, a simple Android application was analyzed using reverse enginee
 
 ## Team / *Ekip*
 
-- **2320191031** - Ilker DEMIRCAN: *Preparer*  
+- **2320191031** - Ilker DEMIRCAN: *Organizer*  
   *İlker DEMİRCAN: Hazırlayan*
 - **2320191036** - Taha Basar OZKAS: *Organizer*  
   *Taha Başar ÖZKAŞ: Düzenleyen*
-- Add more members as needed.  
-  *Gerektiğinde daha fazla üye ekleyin.*
-
 ---
 
 ## Roadmap / *Yol Haritası*
