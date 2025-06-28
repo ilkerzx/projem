@@ -18,7 +18,7 @@ In this project, a simple Android application was analyzed using reverse enginee
 ## Features / *Özellikler*
 
 - **Feature 1:** Decompiles an Android .apk to view Java-like source code.  
-  *Özellik 1:  Android .apk dosyasını decompile ederek Java benzeri kaynak kodu görüntüler.*
+  *Özellik 1: Android .apk dosyasını decompile ederek Java benzeri kaynak kodu görüntüler.*
 - **Feature 2:** Extracts and analyzes app components like layouts and permissions.  
   *Özellik 2: Uygulamanın arayüzleri ve izinleri gibi bileşenlerini çıkarır ve analiz eder.*
 - **Feature 3:** Helps understand how the app works without source code access.
