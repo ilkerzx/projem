@@ -30,10 +30,10 @@ In this project, a simple Android application was analyzed using reverse enginee
 
 ## Team / *Ekip*
 
-- **2320191031** - İlker DEMİRCAN: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
-- **Another Member** - Name Surname: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
+- **2320191031** - Ilker DEMIRCAN: *Preparer*  
+  *İlker DEMİRCAN: Hazırlayan*
+- **2320191036** - Taha Basar OZKAS: *Organizer*  
+  *Taha Başar ÖZKAŞ: Düzenleyen*
 - Add more members as needed.  
   *Gerektiğinde daha fazla üye ekleyin.*
 
