@@ -22,10 +22,10 @@ In this project, a simple Android application was analyzed using reverse enginee
 - **Feature 2:** Extracts and analyzes app components like layouts and permissions.  
   *Özellik 2: Uygulamanın arayüzleri ve izinleri gibi bileşenlerini çıkarır ve analiz eder.*
 - **Feature 3:** Helps understand how the app works without source code access.
-- 
+  
   *Özellik 3: Kaynak kod erişimi olmadan uygulamanın nasıl çalıştığını anlamaya yardımcı olur.*
 - **Feature 4:** Demonstrates basic mobile app reverse engineering techniques.
-- 
+  
   *Özellik 4: Temel mobil uygulama tersine mühendislik tekniklerini gösterir.*
 
 ---
