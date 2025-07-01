@@ -121,9 +121,8 @@ Licensed under the [MIT License](LICENSE.md).
 ## Acknowledgements / *Teşekkürler* (Optional)
 
 Thanks to:  
-- Awesome Library: For enabling X.  
-- Inspiration Source.  
-- Special thanks to...  
+- Keyvan Arasteh (keyvan.arasteh@istinye.edu.tr)
+- Istinye University 
 
 *Teşekkürler: Harika kütüphaneler ve ilham kaynakları için.*
 
@@ -131,10 +130,10 @@ Thanks to:
 
 ## Contact / *İletişim* (Optional)
 
-Project Maintainer: [Your Name/Org Name] - [your.email@example.com]  
+Project Maintainer: [Ilker Demircan/Istinye University] - [2320191031@istinye.edu.tr]  
 Found a bug? Open an issue.  
 
-*Proje Sorumlusu: [Adınız/Kuruluş Adınız] - [e-posta.adresiniz@ornek.com]. Hata bulursanız bir sorun bildirin.*
+*Proje Sorumlusu: [İlker Demircan/İstinye Üniversitesi] - [2320191031@istinye.edu.tr]. Hata bulursanız bir sorun bildirin.*
 
 ---
 
